@@ -1,3 +1,5 @@
-h1{
-    color: greenyellow;
+body{
+    background-color: gray;
+    color: rgb(40, 40, 185); 
+    text-align: center;
 }
